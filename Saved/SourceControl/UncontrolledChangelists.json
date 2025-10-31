@@ -1,17 +1,3 @@
-{
-	"version": 1,
-	"changelists": [
-		{
-			"guid": "00000000000000000000000000000000",
-			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/Pertemuan8/BP_Checkpoint.uasset",
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/Pertemuan8/BP_SaveGame.uasset",
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/Pertemuan8/BP_GameInstance.uasset",
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/Pertemuan8/BPI_SaveData.uasset",
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/Pertemuan8/S_PlayerState.uasset",
-				"C:/Users/PC/Documents/Unreal Projects/PPG_EzraAbhinayaP/Pertemuan 1/PPG_ProgrammerAndika/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ddba8ead803a40e13ce2491a6290aa92fb4c82ffcbc171125902838644e7ec
+size 1835
